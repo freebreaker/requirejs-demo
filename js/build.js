@@ -6,5 +6,5 @@
       'jquery':'lib/jquery'
     },
     name:'main',
-    out:'../../dist/index.merge.min.js'
+    out:'../dist/index.merge.min.js'
 })
