@@ -1,0 +1,32 @@
+{
+  "name": "task15",
+  "version": "1.0.1",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freebreaker",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2"
+  },
+  "dependencies": {
+    "concat": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freebreaker/requirejs-exa.git"
+  },
+  "keywords": [
+    "requirejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/freebreaker/requirejs-exa/issues"
+  },
+  "homepage": "https://freebreaker.github.io/requirejs-exa/task15"
+}

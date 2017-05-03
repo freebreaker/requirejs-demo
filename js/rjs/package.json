@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rjs",
+        "scope": null,
+        "escapedName": "rjs",
+        "name": "rjs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\task15"
+    ]
+  ],
+  "_from": "rjs@latest",
+  "_id": "rjs@4.0.2",
+  "_inCache": true,
+  "_location": "/rjs",
+  "_npmUser": {
+    "name": "raine",
+    "email": "raineorshine@gmail.com"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rjs",
+    "scope": null,
+    "escapedName": "rjs",
+    "name": "rjs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/rjs/-/rjs-4.0.2.tgz",
+  "_shasum": "1074680dab01db8b1e448dbb8e7bfb9b20ece683",
+  "_shrinkwrap": null,
+  "_spec": "rjs",
+  "_where": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\task15",
+  "author": {
+    "name": "Raine Lourie"
+  },
+  "bugs": {
+    "url": "https://github.com/metaraine/rjs/issues"
+  },
+  "dependencies": {},
+  "description": "A library of Javascript utility functions with an emphasis on Functional Programming.",
+  "devDependencies": {
+    "gulp": "^3.5.2",
+    "gulp-clean": "^0.2.4",
+    "gulp-jsdoc": "0.0.2",
+    "gulp-jshint": "^1.4.2",
+    "gulp-open": "^0.2.8",
+    "gulp-util": "^2.2.14",
+    "handlebars": "^2.0.0-alpha.1",
+    "jshint-stylish": "^0.1.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "shasum": "1074680dab01db8b1e448dbb8e7bfb9b20ece683",
+    "tarball": "https://registry.npmjs.org/rjs/-/rjs-4.0.2.tgz"
+  },
+  "gitHead": "ba9f4a85fd605fdad2bde942d59b57c7415bd709",
+  "homepage": "https://github.com/metaraine/rjs",
+  "keywords": [
+    "functional",
+    "utility"
+  ],
+  "license": "MIT",
+  "main": "dist/latest.js",
+  "maintainers": [
+    {
+      "name": "raine",
+      "email": "raineorshine@gmail.com"
+    }
+  ],
+  "name": "rjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metaraine/rjs.git"
+  },
+  "scripts": {
+    "test": "open -a Google\\ Chrome test/index.html"
+  },
+  "version": "4.0.2"
+}
